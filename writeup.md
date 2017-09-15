@@ -20,6 +20,7 @@ The goals / steps of this project are the following:
 [hough]: ./otpt_images/huffLines.jpg "Hough Lines"
 [mask2]: ./otpt_images/mask2.jpg "Masked Again"
 [final]: ./otpt_images/final.jpg "Final"
+
 ---
 
 ### Reflection
